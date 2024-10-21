@@ -6,13 +6,14 @@ This is an interactive web application built using Streamlit that demonstrates v
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git 
+   git clone 
+https://github.com/mannuking/DIP
    ```
    (Replace `your-username` and `your-repo-name` with your actual GitHub username and repository name)
 
 2. **Navigate to the Project Directory:**
    ```bash
-   cd your-repo-name
+   cd DIP
    ```
 
 3. **Create a Virtual Environment (Recommended):**
